@@ -1,0 +1,3 @@
+module.exports=[62925,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"LifeLink | Blood Donor & Emergency Request Network",description:"A modern full-stack platform that connects blood donors and patients quickly, with live request visibility and network notifications."}])},19325,a=>{a.n(a.i(62925))}];
+
+//# sourceMappingURL=app_layout_04hilog.js.map
